@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#product_data_display{
+    width: 80%;
+    height: auto;
+    border: 1px solid black;
+    margin-left: 18%;
+    margin-right: 2%;
+}
+#product_add_new_data{
+    border:1px solid black;
+    width: 120px;
+    height: 30px;
+    margin-left: 90%;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    background-color:rgba(255, 255, 255, 0.221);
+    backdrop-filter: blur(20px);
+}
+#product_add_new_data_msg{
+    text-decoration: none;
+    display: inline;
+}
+#product_add_new_data_img{
+    width: 20px;
+    height: 20px;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+#product_data_display_table{
+    /* border: 1px solid black; */
+    width: 96%;
+    height: auto;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color:rgba(255, 255, 255, 0.221);
+    backdrop-filter: blur(20px);
+}
+#product_data_display_table_th{
+    border: 1px solid black;
+    width: 20px;
+    text-align: center;
+    color: black;
+}
+#product_data_display_table_th_buy{
+    border: 1px solid black;
+    width: 40px;
+    text-align: center;
+    color: black;
+}
+#product_data_display_td{
+    border: 1px solid black;
+    /* width: 30px; */
+    text-align: center;
+    color: rgb(44, 41, 41);
+}
+#product_data_display_td_name{
+    border: 1px solid black;
+    width: 80px;
+    text-align: center;
+    color: rgb(44, 41, 41);
+}
+#product_data_display_td_option_updata{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+#product_data_display_td_option_delete{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+#product_data_display_td_option_appoved{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+#product_data_display_td_option_reject{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px; 
+}
+#product_data_display_td_button{
+    width: 100px;
+    height: 30px;
+    background-color: #e4387796;
+    border: 1px solid black;
+    border-radius: 5px;
+}

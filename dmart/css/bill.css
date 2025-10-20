@@ -1,0 +1,208 @@
+#bill_detail{
+    width: 90%;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: rgb(6, 100, 6);
+}
+#bill_detail_add{
+    width: 98%;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 1%;
+    margin-top: 10px;
+    background-color: white;
+}
+#bill_detail_add_heading{
+    width: 200px;
+    height: 20px;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+#bill_detail_add_heading_msg1{
+    width: 20px;
+    height: 20px; 
+    font-size: 15px;   
+}
+#bill_detail_add_heading_img{
+    width: 20px;
+    height: 20px;
+    /* border: 1px solid black; */
+}
+#bill_detail_add_heading_msg2{
+    width: 20px;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px; 
+    margin-left: 5px;
+}
+#bill_detail_add_form{
+    width: 98%;
+    height: 170px;
+    border: 1px solid black;  
+    margin-left: 1%;
+    border-radius: 5px;
+}
+#bill_detail_add_form_name{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#bill_detail_add_name{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#bill_detail_add_form_phone{
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+#bill_detail_add_phone{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#bill_detail_add_form_city{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#bill_detail_add_city{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 45px;
+}
+#bill_detail_add_form_state{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#bill_detail_add_state{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 38px;
+}
+#bill_detail_add_email{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+#bill_detail_add_form_pin{
+    width: 80%;
+    height: 20px; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#bill_detail_full_pin{
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 12px; 
+}
+#bill_detail_add_form_add{
+    width: 80%;
+    height: 20px;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#bill_detail_full_add{
+    width: 88%;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#bill_detail_payment{
+    width: 98%;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 1%; 
+    margin-top: 10px;
+    background-color: white;
+}
+#bill_detail_payment_cash{
+    width: 10%;
+    height: 20px;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#bill_detail_payment_cash_yes{
+    margin-top: 5px;
+    margin-left: 5px; 
+}
+#bill_detail_payment_cash_button_yes{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 10px;   
+}
+#bill_detail_payment_or{
+    margin-left: 230px;
+    margin-top: 10px;
+}
+#bill_detail_payment_upi{
+    width: 98%;
+    height: 20px;
+    display: flex;
+    /* border: 1px solid black; */
+    margin-left: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+    margin-top: 10px; 
+}
+#bill_detail_payment_upi_id_lable{
+    margin-top: 5px;
+    margin-left: 5px; 
+}
+#bill_detail_payment_upi_id_input{
+    width: 250px;
+    height: 20px;
+    margin-left: 55px;    
+}
+#bill_detail_payment_credit{
+    width: 98%;
+    height: 20px;
+    display: flex;
+    /* border: 1px solid black; */
+    margin-left: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#bill_detail_payment_credit_cart{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#bill_detail_payment_credit_card_number{
+    width: 250px;
+    height: 20px;
+    margin-left: 10px;   
+}
+#bill_detail_place{
+    width: 150px;
+    height: 30px;
+    /* border: 1px solid black; */
+    margin-top: 3px;
+}
+#bill_detail_place_order{
+    width: 100%;
+    height: 30px;
+    border: 1px solid black;  
+    border-radius: 10px;
+}

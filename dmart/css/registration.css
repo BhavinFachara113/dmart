@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#login_selction1{
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-color:  #e8e8e8;
+}
+#login_selction2{
+    width: 70%;
+    height: 600px;
+    border: 1px solid gray;
+    margin-left: 15%;
+    margin-top: 50px;
+    display: flex;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.63);
+}
+#login_image{
+    width: 50%;
+    height: 600px; 
+}
+#login_img{
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+}
+#login_form{
+    width: 50%;
+    height: 600px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+#login_form_logo{
+    width: 150px;
+    height: 100px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 38%;
+}
+#login_form_msg1{
+    width: 100px;
+    height: 50px;
+    /* border: 1px solid black; */
+    font-size: 30px;
+    color: #7c8489;
+}
+#login_form_msg2{
+    width: 400px;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 20px;
+    color: #7c8489;
+}
+#login_form_msg3{
+    width: 400px;
+    height: 50px;
+    /* border: 1px solid black; */
+    text-align: center;
+    font-size: 20px;
+    color: #7c8489;
+    margin-top: 5px;
+}
+#login_form_lab_u_name{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 18px;
+    color: rgb(7, 185, 7);
+}
+#login_form_lab_u_password{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 18px;
+    color: rgb(7, 185, 7);
+}
+#login_form_input_u_name{
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin-left: 50px;
+    background-color: #d2f4dc;
+}
+#login_form_input_u_phone{
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin-left: 22px;
+    background-color: #d2f4dc;
+}
+#login_form_input_u_email{
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin-left: 88px;
+    background-color: #d2f4dc;
+}
+#login_form_input_u_password{
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin-left: 60px;
+    background-color: #d2f4dc;
+}
+#login_form_button_login{
+    margin-top: 20px;
+    margin-left: 270px;
+    width: 130px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #92e3a9;
+    margin-bottom: 20px;
+    color: black;
+}
+#login_form_p_msg1{
+    width: 400px;
+    height: 20px;  
+    margin-left: 330px;
+    color: #7c8489;
+    margin-bottom: 10px;
+}
+#login_form_p_msg2{
+    width: 400px;
+    height: 20px;
+    /* border: 1px solid black; */
+    margin-left: 100px;
+    color: #7c8489;
+}
+#login_form_button_Registeration{
+    width: 150px;
+    height: 30px;
+    color: rgb(7, 185, 7);
+    text-decoration: none;
+}
